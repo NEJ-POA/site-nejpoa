@@ -250,13 +250,6 @@ const Rede: React.FC = () => {
         <Adm className={administracao ? "administracao" : ""}>
           <ShowEJs>
             <DetalhesEJs>
-              <a href="https://www.instagram.com/relabjrconsultoria/">
-                <LogoEJ src={relab} />
-              </a>
-              <h1>Relab</h1>
-              <p>Gestão e Negócios<br/>Unisinos</p>
-            </DetalhesEJs>
-            <DetalhesEJs>
               <a href="https://www.instagram.com/legacypucrs/">
                 <LogoEJ src={legacy} />
               </a>
@@ -269,6 +262,13 @@ const Rede: React.FC = () => {
               </a>
               <h1>PS Junior</h1>
               <p>Consultoria empresarial<br/>UFRGS</p>
+            </DetalhesEJs>
+            <DetalhesEJs>
+              <a href="https://www.instagram.com/relabjrconsultoria/">
+                <LogoEJ src={relab} />
+              </a>
+              <h1>Relab</h1>
+              <p>Gestão e Negócios<br/>Unisinos</p>
             </DetalhesEJs>
           </ShowEJs>
         </Adm>
