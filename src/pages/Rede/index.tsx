@@ -43,6 +43,7 @@ import enfitec  from "../../assets/logos/Enfitec.png"
 import enger  from "../../assets/logos/Enger.png"
 import equilibrio  from "../../assets/logos/Equilibrio.png"
 import escritorio  from "../../assets/logos/Escritorio.png"
+import esfera  from "../../assets/logos/Esfera.png"
 import faisca  from "../../assets/logos/Faisca.png"
 import hidrologica  from "../../assets/logos/Hidrologica.png"
 import ide  from "../../assets/logos/IDE.png"
@@ -331,6 +332,13 @@ const Rede: React.FC = () => {
               </a>
               <h1>EJMinas</h1>
               <p>Engenharia de minas<br/>UFRGS</p>
+            </DetalhesEJs>
+            <DetalhesEJs>
+              <a href="https://www.instagram.com/esferajr/">
+                <LogoEJ src={esfera} />
+              </a>
+              <h1>Esfera Junior</h1>
+              <p>Engenharia Civil e Arquitetura<br/>UFRGS</p>
             </DetalhesEJs>
             <DetalhesEJs>
               <a href="https://www.instagram.com/emejrufrgs/">
