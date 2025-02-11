@@ -340,6 +340,8 @@ const Rede: React.FC = () => {
               <h1>Esfera Junior</h1>
               <p>Engenharia Civil e Arquitetura<br/>UFRGS</p>
             </DetalhesEJs>
+          </ShowEJs>
+          <ShowEJs>
             <DetalhesEJs>
               <a href="https://www.instagram.com/emejrufrgs/">
                 <LogoEJ src={eme} />
@@ -347,8 +349,6 @@ const Rede: React.FC = () => {
               <h1>EME Júnior</h1>
               <p>Engenharia de materiais<br/>UFRGS</p>
             </DetalhesEJs>
-          </ShowEJs>
-          <ShowEJs>
             <DetalhesEJs>
               <a href="https://www.instagram.com/eprconsultoria/">
                 <LogoEJ src={epr} />
@@ -363,6 +363,8 @@ const Rede: React.FC = () => {
               <h1>Eali</h1>
               <p>Engenharia de alimentos<br/>UFRGS</p>
             </DetalhesEJs>
+          </ShowEJs>
+          <ShowEJs>
             <DetalhesEJs>
               <a href="https://www.instagram.com/enfitecjunior/">
                 <LogoEJ src={enfitec} />
@@ -370,8 +372,6 @@ const Rede: React.FC = () => {
               <h1>Enfitec Júnior</h1>
               <p>Engenharia física<br/>UFRGS</p>
             </DetalhesEJs>
-          </ShowEJs>
-          <ShowEJs>
             <DetalhesEJs>
               <a href="https://www.instagram.com/engersolutionej/">
                 <LogoEJ src={enger} />
@@ -386,6 +386,8 @@ const Rede: React.FC = () => {
               <h1>Hidrológica</h1>
               <p>Engenharia hídrica<br/>UFRGS</p>
             </DetalhesEJs>
+          </ShowEJs>
+          <ShowEJs>
             <DetalhesEJs>
               <a href="https://www.instagram.com/ide_jr/">
                 <LogoEJ src={ide} />
@@ -393,8 +395,6 @@ const Rede: React.FC = () => {
               <h1>IDE</h1>
               <p>Ciência e engenharia de computação<br/>UFRGS</p>
             </DetalhesEJs>
-          </ShowEJs>
-          <ShowEJs>
             <DetalhesEJs>
               <a href="https://www.instagram.com/ejmandala/">
                 <LogoEJ src={mandala} />
@@ -409,6 +409,8 @@ const Rede: React.FC = () => {
               <h1>OTMZA Júnior</h1>
               <p>Engenharia mecânica<br/>UFRGS</p>
             </DetalhesEJs>
+          </ShowEJs>
+          <ShowEJs>
             <DetalhesEJs>
               <a href="https://www.instagram.com/renova_jr/">
                 <LogoEJ src={renova} />
@@ -416,8 +418,6 @@ const Rede: React.FC = () => {
               <h1>Renova Júnior</h1>
               <p>Engenharia de energia<br/>UFRGS</p>
             </DetalhesEJs>
-          </ShowEJs>
-          <ShowEJs>
             <DetalhesEJs>
               <a href="https://www.instagram.com/sincjunior/">
                 <LogoEJ src={sinc} />
