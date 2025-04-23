@@ -56,7 +56,6 @@ const Header: React.FC = () => {
         <LeftImage src={foto1} className={menuPage ? "" : "menuPage"}/>
         <MenuOptions className={menuPage ? "" : "menuPage"}>
           <Links to={"/"}>Início</Links>
-          <Links to={"/portal"}>Portal</Links>
           <Links to={"/eventos"}>Eventos</Links>
           <Links to={"/rede-nej-poa"}>Rede NEJ POA</Links>
           <Links to={"/nossos-parceiros"}>Nossos parceiros</Links>
